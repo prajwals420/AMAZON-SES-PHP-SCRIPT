@@ -1,7 +1,7 @@
 # AMAZON-SES-SMTP-PHP-SCRIPT
 SEND EMAILS THROUGH AMAZON SES SMTP
 
-STEP 1 : Download the script file.
+STEP 1 : Download the script file index.php.
 
 STEP 2 : Download the AWS PHP SDK (You can refer this documentation : https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/getting-started_installation.html )
 
